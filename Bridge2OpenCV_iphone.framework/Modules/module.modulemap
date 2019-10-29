@@ -1,0 +1,6 @@
+framework module Bridge2OpenCV {
+  umbrella header "Bridge2OpenCV.h"
+
+  export *
+  module * { export * }
+}

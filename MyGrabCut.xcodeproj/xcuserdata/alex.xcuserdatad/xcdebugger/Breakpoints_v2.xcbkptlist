@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyGrabCut/DrawViewModel.swift"
+            timestampString = "593853288.041087"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3"
+            landmarkName = "DrawViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyGrabCut.DrawViewModel.__allocating_init() -&gt; MyGrabCut.DrawViewModel"
+                  moduleName = "MyGrabCut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Tom/Work/MyGrabCut/MyGrabCut/DrawViewModel.swift"
+                  timestampString = "594020954.333271"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyGrabCut.DrawViewModel.init() -&gt; MyGrabCut.DrawViewModel"
+                  moduleName = "MyGrabCut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Tom/Work/MyGrabCut/MyGrabCut/DrawViewModel.swift"
+                  timestampString = "594020954.335034"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyGrabCut.DrawViewModel.__deallocating_deinit"
+                  moduleName = "MyGrabCut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Tom/Work/MyGrabCut/MyGrabCut/DrawViewModel.swift"
+                  timestampString = "594020954.3366621"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
